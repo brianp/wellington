@@ -61,9 +61,6 @@
 [submodule "lang/vim-slim"]
 	path = lang/vim-slim
 	url = git@github.com:slim-template/vim-slim.git
-[submodule "lang/textile.vim"]
-	path = lang/textile.vim
-	url = git@github.com:timcharper/textile.vim.git
 [submodule "lang/vim-node"]
 	path = lang/vim-node
 	url = git@github.com:mmalecki/vim-node.js.git
