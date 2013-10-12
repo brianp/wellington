@@ -1,6 +1,4 @@
-execute pathogen#infect('bundle/{}')
-execute pathogen#infect('lang/{}')
-execute pathogen#infect('colors/{}')
+execute pathogen#infect('bundle/{}', 'lang/{}', 'colors/{}')
 
 function! AddMapping(name, mapping_command, mapping_keys, ...)
   if len(a:000) < 1
@@ -178,7 +176,9 @@ set guioptions-=T  "remove toolbar
 set exrc
 set secure
 
-colorscheme Lucius
+set t_Co=256
+colorscheme lucius
+LuciusBlack
 
 set tw=80
 "set cc=+1  " highlight column after 'textwidth'
