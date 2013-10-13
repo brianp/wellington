@@ -1,3 +1,5 @@
+# Bundles
+
 [submodule "bundle/ack.vim"]
 	path = bundle/ack.vim
 	url = git@github.com:mileszs/ack.vim.git
@@ -16,6 +18,12 @@
 [submodule "bundle/ZoomWin"]
 	path = bundle/ZoomWin
 	url = git@github.com:vim-scripts/ZoomWin.git
+[submodule "bundle/detectindent"]
+	path = bundle/detectindent
+	url = git@github.com:ciaranm/detectindent.git
+
+# Syntax highlighting
+
 [submodule "lang/vim-coffee-script"]
 	path = lang/vim-coffee-script
 	url = git@github.com:kchmck/vim-coffee-script.git
@@ -64,9 +72,6 @@
 [submodule "lang/vim-node"]
 	path = lang/vim-node
 	url = git@github.com:mmalecki/vim-node.js.git
-[submodule "bundle/detectindent"]
-	path = bundle/detectindent
-	url = git@github.com:ciaranm/detectindent.git
 [submodule "lang/textile.vim"]
 	path = lang/textile.vim
 	url = git@github.com:timcharper/textile.vim.git
