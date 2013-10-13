@@ -6,4 +6,5 @@ Clone the project into your `~/.vim` directory.
 
 `git clone git@github.com:brianp/wellington.git ~/.vim/`
 
-Then source the `~/vimrc/` file from your `.bashrc` | `.bash_profile`.
+Then symlink the `~/vimrc/` file in your home directory.
+`ln -s ~/.vim/vimrc/ ~/.vimrc`
