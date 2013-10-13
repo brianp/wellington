@@ -73,6 +73,3 @@
 [submodule "lang/textile.vim"]
 	path = lang/textile.vim
 	url = git@github.com:timcharper/textile.vim.git
-[submodule "colors/vim-lucius"]
-	path = colors/vim-lucius
-	url = git@github.com:jonathanfilip/vim-lucius.git
