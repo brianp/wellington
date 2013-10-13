@@ -177,8 +177,7 @@ set exrc
 set secure
 
 set t_Co=256
-colorscheme lucius
-LuciusBlack
+colorscheme Lucius
 
 set tw=80
 "set cc=+1  " highlight column after 'textwidth'
