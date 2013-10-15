@@ -1,5 +1,10 @@
 execute pathogen#infect('bundle/{}', 'lang/{}', 'colors/{}', 'core/{}')
 
+let s:corefile = $HOME . '/.vim/core/core.vim'
+if filereadable(s:corefile)
+  exec 'source' . s:corefile
+endif
+
 function! AddMapping(name, mapping_command, mapping_keys, ...)
   if len(a:000) < 1
     throw "The arguments to AddMapping() should be <name> <mapping_command> <mapping_keys> <mapping_action> [mapping_action]*"
