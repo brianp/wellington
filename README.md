@@ -18,6 +18,25 @@ Then symlink the `~/vimrc/` file in your home directory.
 - ZoomWin
 - DetectIndent
 
+## Syntax Highlighting
+- CSV
+- CoffeeScript
+- JavaScript
+- NodeJS
+- Git
+- GoLang
+- Pupptet
+- HAML
+- Slim
+- LESS
+- SCSS
+- Ruby
+- Rails
+- RSpec
+- Minitest
+- Markdown
+- Textile
+
 ## Special Thanks
 To Carl Lerche and Yehuda Katz for the [janus](https://github.com/carlhuda/janus) bundle.
 It is what helped me learn and make VIM my main editor and eventually inspired me to make this project.
