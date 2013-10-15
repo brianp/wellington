@@ -1,4 +1,4 @@
-execute pathogen#infect('bundle/{}', 'lang/{}', 'colors/{}')
+execute pathogen#infect('bundle/{}', 'lang/{}', 'colors/{}', 'core/{}')
 
 function! AddMapping(name, mapping_command, mapping_keys, ...)
   if len(a:000) < 1
