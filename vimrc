@@ -64,8 +64,6 @@ set cpoptions+=$
 
 set clipboard=unnamed
 
-let g:Powerline_symbols = 'fancy'
-
 function! NumberToggle()
   if(&relativenumber == 1)
     set number
