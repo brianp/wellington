@@ -18,7 +18,6 @@ endfunction
 set t_Co=256
 colorscheme Lucius
 
-set fo-=t " don't wrap
 set nowrap
 set showbreak=↪
 "set sidescroll=5

@@ -7,6 +7,7 @@ set encoding=utf-8    " Set default encoding to UTF-8
 
 " Whitespace
 set nowrap                        " don't wrap lines
+set fo-=t                         " really don't wrap
 set tabstop=2                     " a tab is two spaces
 set shiftwidth=2                  " an autoindent (with <<) is two spaces
 set expandtab                     " use spaces, not tabs
