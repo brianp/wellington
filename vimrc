@@ -36,12 +36,6 @@ noremap  <Down>  <NOP>
 noremap  <Left>  <NOP>
 noremap  <Right> <NOP>
 
-" user crtl direction to move windows
-map <C-h> <C-w><C-h>
-map <C-j> <C-w><C-j>
-map <C-k> <C-w><C-k>
-map <C-l> <C-w><C-l>
-
 " remove it cause i hate it
 "inoremap <S-k>
 
