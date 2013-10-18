@@ -20,12 +20,6 @@ colorscheme Lucius
 
 set nowrap
 set showbreak=↪
-"set sidescroll=5
-"set listchars+=precedes:<,extends:>
-"
-hi ColorColumn ctermbg=0 guibg=Black
-
-" disable arrow keys
 " Disable arrow keys
 inoremap <Up>    <NOP>
 inoremap <Down>  <NOP>
@@ -35,12 +29,6 @@ noremap  <Up>    <NOP>
 noremap  <Down>  <NOP>
 noremap  <Left>  <NOP>
 noremap  <Right> <NOP>
-
-" remove it cause i hate it
-"inoremap <S-k>
-
-" auto save on exit insert mode
-"au InsertLeave * up
 
 " set dollar sign on change
 set cpoptions+=$
