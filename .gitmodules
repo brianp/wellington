@@ -21,6 +21,9 @@
 [submodule "bundle/detectindent"]
 	path = bundle/detectindent
 	url = git@github.com:ciaranm/detectindent.git
+[submodule "bundle/vim-endwise"]
+	path = bundle/vim-endwise
+	url = git@github.com:tpope/vim-endwise.git
 [submodule "bundle/tlib_vim"]
 	path = bundle/tlib_vim
 	url = git@github.com:tomtom/tlib_vim.git
@@ -30,6 +33,12 @@
 [submodule "bundle/vim-snipmate"]
 	path = bundle/vim-snipmate
 	url = git@github.com:garbas/vim-snipmate.git
+[submodule "bundle/vim-snippets"]
+	path = bundle/vim-snippets
+	url = git@github.com:honza/vim-snippets.git
+[submodule "bundle/vim-indent-object"]
+	path = bundle/vim-indent-object
+	url = git@github.com:michaeljsmith/vim-indent-object.git
 
 # Syntax highlighting
 
@@ -84,9 +93,6 @@
 [submodule "lang/textile.vim"]
 	path = lang/textile.vim
 	url = git@github.com:timcharper/textile.vim.git
-[submodule "bundle/vim-snippets"]
-	path = bundle/vim-snippets
-	url = git@github.com:honza/vim-snippets.git
-[submodule "bundle/vim-indent-object"]
-	path = bundle/vim-indent-object
-	url = git@github.com:michaeljsmith/vim-indent-object.git
+[submodule "bundle/vim-endwise"]
+	path = bundle/vim-endwise
+	url = git@github.com:tpope/vim-endwise.git
