@@ -27,6 +27,7 @@ set showbreak=↪
 hi ColorColumn ctermbg=0 guibg=Black
 
 " disable arrow keys
+" Disable arrow keys
 inoremap <Up>    <NOP>
 inoremap <Down>  <NOP>
 inoremap <Left>  <NOP>
