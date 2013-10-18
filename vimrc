@@ -14,7 +14,6 @@ function! AddMapping(name, mapping_command, mapping_keys, ...)
   exe join(mapping_list)
 endfunction
 
-" Brians personal tricks
 set guioptions-=m  "remove menu bar
 set guioptions-=T  "remove toolbar
 
