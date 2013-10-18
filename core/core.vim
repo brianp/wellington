@@ -14,6 +14,10 @@ set list                          " Show invisible characters
 set backspace=indent,eol,start    " backspace through everything in insert mode
 set autoindent
 
+" Textwidth
+set tw=80                              " Textwidth line at 80 char
+set cc=+1                              " highlight column after 'textwidth'
+
 " List chars
 set listchars=""                  " Reset the listchars
 set listchars=tab:\ \             " a tab should display as "  ", trailing whitespace as "."

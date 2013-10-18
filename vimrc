@@ -18,8 +18,6 @@ endfunction
 set t_Co=256
 colorscheme Lucius
 
-set tw=80
-set cc=+1  " highlight column after 'textwidth'
 set fo-=t " don't wrap
 set nowrap
 set showbreak=↪
