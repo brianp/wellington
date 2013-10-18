@@ -36,9 +36,6 @@ noremap  <Down>  <NOP>
 noremap  <Left>  <NOP>
 noremap  <Right> <NOP>
 
-" use jj to exit insert mode
-inoremap jj <ESC>
-
 " user crtl direction to move windows
 map <C-h> <C-w><C-h>
 map <C-j> <C-w><C-j>

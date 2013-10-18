@@ -5,6 +5,9 @@ set ruler             " Show line and column number
 syntax enable         " Turn on syntax highlighting allowing local overrides
 set encoding=utf-8    " Set default encoding to UTF-8
 
+" Use jj to exit insert mode
+inoremap jj <ESC>
+
 " Whitespace
 set nowrap                        " don't wrap lines
 set fo-=t                         " really don't wrap
