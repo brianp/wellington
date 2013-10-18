@@ -18,7 +18,6 @@ endfunction
 set t_Co=256
 colorscheme Lucius
 
-set nowrap
 " Disable arrow keys
 inoremap <Up>    <NOP>
 inoremap <Down>  <NOP>
