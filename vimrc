@@ -55,13 +55,3 @@ map <C-l> <C-w><C-l>
 set cpoptions+=$
 
 set clipboard=unnamed
-
-function! NumberToggle()
-  if(&relativenumber == 1)
-    set number
-  else
-    set relativenumber
-  endif
-endfunc
-
-nnoremap <C-n> :call NumberToggle()<cr>
