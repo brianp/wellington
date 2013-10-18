@@ -14,6 +14,7 @@ function! AddMapping(name, mapping_command, mapping_keys, ...)
   exe join(mapping_list)
 endfunction
 
+" Colors
 set t_Co=256
 colorscheme Lucius
 
