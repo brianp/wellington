@@ -9,6 +9,14 @@ Clone the project into your `~/.vim` directory.
 Then symlink the `~/vimrc/` file in your home directory.
 `ln -s ~/.vim/vimrc/ ~/.vimrc`
 
+## Custom Mappings
+
+### Line Number Toggle
+`<ctrl>n` Toggle relative and absolute line numbers.
+
+### NerdTree
+`<leader>n` Toggles the NerdTree drawer.
+
 ## Plugins
 - Ack
 - Ctrlp
