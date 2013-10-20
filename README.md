@@ -11,7 +11,7 @@ Then symlink the `~/vimrc/` file in your home directory.
 
 ## Colours
 The default is an older (Version: 3.1) of the [lucius](https://github.com/jonathanfilip/vim-lucius) colour scheme.
-Lucius has since been updated but I like this version more. The colour scheme is set in `vimrc` to easily change the defaults.
+Lucius has been updated past version 3.1 but I like this version more. The colour scheme is set in `vimrc` to easily change the defaults.
 
 ## Custom Mappings
 
