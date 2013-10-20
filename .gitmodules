@@ -93,6 +93,3 @@
 [submodule "lang/textile.vim"]
 	path = lang/textile.vim
 	url = git@github.com:timcharper/textile.vim.git
-[submodule "bundle/vim-endwise"]
-	path = bundle/vim-endwise
-	url = git@github.com:tpope/vim-endwise.git
