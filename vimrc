@@ -16,7 +16,7 @@ endfunction
 
 " Colors
 set t_Co=256
-colorscheme Lucius
+colorscheme lucius
 
 " Disable arrow keys
 inoremap <Up>    <NOP>
