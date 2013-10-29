@@ -54,8 +54,8 @@ set wildignore+=*/tmp/cache/assets/*/sprockets/*,*/tmp/cache/assets/*/sass/*
 set wildignore+=*.swp,*~,._*
 
 " Backup and swap files
-set backupdir^=~/.vim/_backup// " where to put backup files.
-set directory^=~/.vim/_temp//   " where to put swap files.
+set backupdir^=~/.vim/_backup/ " where to put backup files.
+set directory^=~/.vim/_temp/   " where to put swap files.
 
 " MacVIM
 set guioptions-=m  "remove menu bar
@@ -67,3 +67,9 @@ map <C-h> <C-w><C-h>
 map <C-j> <C-w><C-j>
 map <C-k> <C-w><C-k>
 map <C-l> <C-w><C-l>
+
+" Map <leader>r to :redraw!
+call AddMapping('redraw', 'map', '<leader>r', ':redraw!<CR>')
+
+" Map <leader>r to :redraw!
+call AddMapping('redraw', 'map', '<leader>r', ':redraw!<CR>')
