@@ -70,6 +70,3 @@ map <C-l> <C-w><C-l>
 
 " Map <leader>r to :redraw!
 call AddMapping('redraw', 'map', '<leader>r', ':redraw!<CR>')
-
-" Map <leader>r to :redraw!
-call AddMapping('redraw', 'map', '<leader>r', ':redraw!<CR>')

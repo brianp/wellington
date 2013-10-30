@@ -1,10 +1,5 @@
 execute pathogen#infect('bundle/{}', 'lang/{}', 'colors/{}', 'core/{}')
 
-let s:corefile = $HOME . '/.vim/core/core.vim'
-if filereadable(s:corefile)
-  exec 'source' . s:corefile
-endif
-
 function! AddMapping(name, mapping_command, mapping_keys, ...)
   if len(a:000) < 1
     throw "The arguments to AddMapping() should be <name> <mapping_command> <mapping_keys> <mapping_action> [mapping_action]*"
@@ -13,6 +8,11 @@ function! AddMapping(name, mapping_command, mapping_keys, ...)
   let mapping_list = [a:mapping_command, a:mapping_keys, mapping_command]
   exe join(mapping_list)
 endfunction
+
+let s:corefile = $HOME . '/.vim/core/core.vim'
+if filereadable(s:corefile)
+  exec 'source' . s:corefile
+endif
 
 " Colors
 set t_Co=256
