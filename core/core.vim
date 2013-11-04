@@ -22,6 +22,9 @@ set autoindent
 set tw=80                         " Textwidth line at 80 char
 set cc=+1                         " highlight column after 'textwidth'
 
+" Highlight when past character limit
+autocmd BufWinEnter * let w:m1=matchadd('Error', '\%>94v.\+', -1)
+
 " List chars
 set listchars=""                  " Reset the listchars
 set listchars=tab:\ \             " a tab should display as "  ", trailing whitespace as "."
