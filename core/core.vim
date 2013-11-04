@@ -57,8 +57,10 @@ set wildignore+=*/tmp/cache/assets/*/sprockets/*,*/tmp/cache/assets/*/sass/*
 set wildignore+=*.swp,*~,._*
 
 " Backup and swap files
-set backupdir^=~/.vim/_backup/ " where to put backup files.
-set directory^=~/.vim/_temp/   " where to put swap files.
+set backup
+set backupdir=~/.vim/_backup/ " where to put backup files.
+set directory=~/.vim/_temp/   " where to put swap files.
+set dir=~/.vim/_temp/         " where to put swap files.
 
 " MacVIM
 set guioptions-=m  "remove menu bar
