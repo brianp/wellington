@@ -23,6 +23,7 @@ Lucius has been updated past version 3.1 but I like this version more. The colou
 
 ## Plugins
 - Ack
+- The Silver Search
 - Ctrlp
 - NerdCommenter
 - NerdTree
