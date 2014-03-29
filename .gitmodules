@@ -93,3 +93,6 @@
 [submodule "lang/textile.vim"]
 	path = lang/textile.vim
 	url = http://github.com/timcharper/textile.vim.git
+[submodule "lang/rust.vim"]
+	path = lang/rust.vim
+	url = git://github.com/wting/rust.vim.git
