@@ -48,6 +48,7 @@ Lucius has been updated past version 3.1 but I like this version more. The colou
 - Minitest
 - Markdown
 - Textile
+- Rust Lang
 
 ## Special Thanks
 To Carl Lerche and Yehuda Katz for the [janus](https://github.com/carlhuda/janus) bundle.
