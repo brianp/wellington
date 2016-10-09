@@ -56,6 +56,9 @@ set wildignore+=*/tmp/cache/assets/*/sprockets/*,*/tmp/cache/assets/*/sass/*
 " Disable temp and backup files
 set wildignore+=*.swp,*~,._*
 
+" Ignore log directories
+set wildignore+=*/log/*
+
 " Backup and swap files
 set backup
 set backupdir=~/.vim/_backup/ " where to put backup files.

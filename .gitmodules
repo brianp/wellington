@@ -96,3 +96,15 @@
 [submodule "lang/rust.vim"]
 	path = lang/rust.vim
 	url = git://github.com/wting/rust.vim.git
+[submodule "lang/VimClojure"]
+	path = lang/VimClojure
+	url = git@github.com:vim-scripts/VimClojure.git
+[submodule "lang/elm.vim"]
+	path = lang/elm.vim
+	url = https://github.com/lambdatoast/elm.vim.git
+[submodule "lang/vim-phoenix"]
+	path = lang/vim-phoenix
+	url = git@github.com:avdgaag/vim-phoenix.git
+[submodule "lang/vim-elixir"]
+	path = lang/vim-elixir
+	url = git@github.com:elixir-lang/vim-elixir.git
