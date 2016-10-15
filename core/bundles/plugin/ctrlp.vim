@@ -11,7 +11,7 @@ let g:ctrlp_custom_ignore = {
 " - ctrlp_show_hidden
 " - ctrlp_custom_ignore
 if executable('rg')
-  let g:ctrlp_user_command = 'rg %s --files --hidden'
+  let g:ctrlp_user_command = 'rg --files %s'
 elseif executable('ag')
   let g:ctrlp_user_command = 'ag %s -l --nocolor -g ""'
 endif
