@@ -104,7 +104,7 @@
 	url = https://github.com/lambdatoast/elm.vim.git
 [submodule "lang/vim-phoenix"]
 	path = lang/vim-phoenix
-	url = http://github.com:avdgaag/vim-phoenix.git
+	url = http://github.com/avdgaag/vim-phoenix.git
 [submodule "lang/vim-elixir"]
 	path = lang/vim-elixir
-	url = http://github.com:elixir-lang/vim-elixir.git
+	url = http://github.com/elixir-lang/vim-elixir.git
