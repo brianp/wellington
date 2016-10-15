@@ -98,7 +98,7 @@
 	url = http://github.com/wting/rust.vim.git
 [submodule "lang/VimClojure"]
 	path = lang/VimClojure
-	url = http://github.com:vim-scripts/VimClojure.git
+	url = http://github.com/vim-scripts/VimClojure.git
 [submodule "lang/elm.vim"]
 	path = lang/elm.vim
 	url = https://github.com/lambdatoast/elm.vim.git
