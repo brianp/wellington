@@ -108,3 +108,6 @@
 [submodule "lang/vim-elixir"]
 	path = lang/vim-elixir
 	url = http://github.com/elixir-lang/vim-elixir.git
+[submodule "lang/Dockerfile"]
+	path = lang/Dockerfile
+	url = https://github.com/ekalinin/Dockerfile.vim.git
