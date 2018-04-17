@@ -22,14 +22,14 @@ Lucius has been updated past version 3.1 but I like this version more. The colou
 `<leader>n` Toggles the NerdTree drawer.
 
 ## Plugins
-- The Silver Search
 - Ctrlp
 - NerdCommenter
 - NerdTree
+- Supertab
 - Syntastic
 - ZoomWin
-- DetectIndent
 - SnipMate
+- GitGutter
 
 ## Syntax Highlighting
 - CSV
