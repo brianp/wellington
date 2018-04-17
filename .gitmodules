@@ -24,6 +24,12 @@
 [submodule "bundle/supertab"]
 	path = bundle/supertab
 	url = git@github.com:ervandew/supertab.git
+[submodule "bundle/vim-gitgutter"]
+	path = bundle/vim-gitgutter
+	url = git@github.com:airblade/vim-gitgutter.git
+[submodule "bundle/vim-ripgrep"]
+	path = bundle/vim-ripgrep
+	url = git@github.com:jremmen/vim-ripgrep.git
 
 # Syntax highlighting
 [submodule "lang/vim-coffee-script"]
@@ -95,6 +101,3 @@
 [submodule "lang/Dockerfile"]
 	path = lang/Dockerfile
 	url = https://github.com/ekalinin/Dockerfile.vim.git
-[submodule "bundle/vim-gitgutter"]
-	path = bundle/vim-gitgutter
-	url = git@github.com:airblade/vim-gitgutter.git
