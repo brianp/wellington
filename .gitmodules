@@ -21,6 +21,9 @@
 [submodule "bundle/vim-snippets"]
 	path = bundle/vim-snippets
 	url = http://github.com/honza/vim-snippets.git
+[submodule "bundle/supertab"]
+	path = bundle/supertab
+	url = git@github.com:ervandew/supertab.git
 
 # Syntax highlighting
 [submodule "lang/vim-coffee-script"]
