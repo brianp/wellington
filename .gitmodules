@@ -15,33 +15,14 @@
 [submodule "bundle/ZoomWin"]
 	path = bundle/ZoomWin
 	url = http://github.com/vim-scripts/ZoomWin.git
-[submodule "bundle/detectindent"]
-	path = bundle/detectindent
-	url = http://github.com/ciaranm/detectindent.git
-[submodule "bundle/vim-endwise"]
-	path = bundle/vim-endwise
-	url = http://github.com/tpope/vim-endwise.git
-[submodule "bundle/tlib_vim"]
-	path = bundle/tlib_vim
-	url = http://github.com/tomtom/tlib_vim.git
-[submodule "bundle/vim-addon-mw-utils"]
-	path = bundle/vim-addon-mw-utils
-	url = http://github.com/MarcWeber/vim-addon-mw-utils.git
 [submodule "bundle/vim-snipmate"]
 	path = bundle/vim-snipmate
 	url = http://github.com/garbas/vim-snipmate.git
 [submodule "bundle/vim-snippets"]
 	path = bundle/vim-snippets
 	url = http://github.com/honza/vim-snippets.git
-[submodule "bundle/vim-indent-object"]
-	path = bundle/vim-indent-object
-	url = http://github.com/michaeljsmith/vim-indent-object.git
-[submodule "ag.vim"]
-	path = bundle/ag.vim
-	url = https://github.com/rking/ag.vim
 
 # Syntax highlighting
-
 [submodule "lang/vim-coffee-script"]
 	path = lang/vim-coffee-script
 	url = http://github.com/kchmck/vim-coffee-script.git
