@@ -15,12 +15,6 @@
 [submodule "bundle/ZoomWin"]
 	path = bundle/ZoomWin
 	url = http://github.com/vim-scripts/ZoomWin.git
-[submodule "bundle/vim-snipmate"]
-	path = bundle/vim-snipmate
-	url = http://github.com/garbas/vim-snipmate.git
-[submodule "bundle/vim-snippets"]
-	path = bundle/vim-snippets
-	url = http://github.com/honza/vim-snippets.git
 [submodule "bundle/supertab"]
 	path = bundle/supertab
 	url = git@github.com:ervandew/supertab.git
@@ -30,6 +24,18 @@
 [submodule "bundle/vim-ripgrep"]
 	path = bundle/vim-ripgrep
 	url = git@github.com:jremmen/vim-ripgrep.git
+[submodule "bundle/vim-snipmate"]
+	path = bundle/vim-snipmate
+	url = http://github.com/garbas/vim-snipmate.git
+[submodule "bundle/vim-snippets"] # Snipmate
+	path = bundle/vim-snippets
+	url = http://github.com/honza/vim-snippets.git
+[submodule "bundle/tlib_vim"] # Snipmate requirement
+	path = bundle/tlib_vim
+	url = git@github.com:tomtom/tlib_vim.git
+[submodule "bundle/vim-addon-mw-utils"] # Snipmate requirement
+	path = bundle/vim-addon-mw-utils
+	url = git@github.com:MarcWeber/vim-addon-mw-utils.git
 
 # Syntax highlighting
 [submodule "lang/vim-coffee-script"]
