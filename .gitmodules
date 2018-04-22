@@ -36,6 +36,9 @@
 [submodule "bundle/vim-addon-mw-utils"] # Snipmate requirement
 	path = bundle/vim-addon-mw-utils
 	url = git@github.com:MarcWeber/vim-addon-mw-utils.git
+[submodule "bundle/vim-test"]
+	path = bundle/vim-test
+	url = git@github.com:janko-m/vim-test.git
 
 # Syntax highlighting
 [submodule "lang/vim-coffee-script"]

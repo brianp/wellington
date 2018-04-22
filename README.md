@@ -21,6 +21,13 @@ Lucius has been updated past version 3.1 but I like this version more. The colou
 ### NerdTree
 `<leader>n` Toggles the NerdTree drawer.
 
+### Vim Tests
+
+nearest test - `t Ctrl+n`
+entire file - `t Ctrl+f`
+entire suite - `t Ctrl+s`
+last test - `t Ctrl+l`
+
 ## Plugins
 - Ctrlp
 - NerdCommenter
@@ -30,6 +37,7 @@ Lucius has been updated past version 3.1 but I like this version more. The colou
 - ZoomWin
 - SnipMate
 - GitGutter
+- Vim Test
 
 ## Syntax Highlighting
 - CSV
