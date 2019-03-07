@@ -29,6 +29,7 @@ entire suite - `t Ctrl+s`
 last test - `t Ctrl+l`
 
 ## Plugins
+- Ale
 - Ctrlp
 - NerdCommenter
 - NerdTree
