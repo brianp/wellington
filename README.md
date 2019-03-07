@@ -50,8 +50,8 @@ Lucius has been updated past version 3.1 but I like this version more. The colou
 
 ## Syntax Highlighting
 - CSV
-- CoffeeScript
 - Clojure
+- CoffeeScript
 - Elixir
 - Git
 - GoLang
@@ -61,6 +61,7 @@ Lucius has been updated past version 3.1 but I like this version more. The colou
 - Markdown
 - Minitest
 - NodeJS
+- Phoenix
 - Puppet
 - RSpec
 - Rails
@@ -68,7 +69,7 @@ Lucius has been updated past version 3.1 but I like this version more. The colou
 - Rust
 - SCSS
 - Slim
-- Phoenix
+- Swift
 - Textile
 
 ## Special Thanks

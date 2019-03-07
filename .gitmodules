@@ -42,6 +42,9 @@
 [submodule "bundle/vim-test"]
 	path = bundle/vim-test
 	url = git@github.com:janko-m/vim-test.git
+[submodule "bundle/vim-rubocop"]
+	path = bundle/vim-rubocop
+	url = git@github.com:ngmy/vim-rubocop.git
 
 # Syntax highlighting
 [submodule "lang/vim-coffee-script"]
@@ -113,6 +116,6 @@
 [submodule "lang/Dockerfile"]
 	path = lang/Dockerfile
 	url = https://github.com/ekalinin/Dockerfile.vim.git
-[submodule "bundle/vim-rubocop"]
-	path = bundle/vim-rubocop
-	url = git@github.com:ngmy/vim-rubocop.git
+[submodule "lang/swift.vim"]
+	path = lang/swift.vim
+	url = https://github.com/keith/swift.vim.git
