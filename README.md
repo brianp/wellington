@@ -1,5 +1,4 @@
 # Wellington
-
 A VIM environment.
 
 Clone the project into your `~/.vim` directory.
@@ -23,42 +22,49 @@ Lucius has been updated past version 3.1 but I like this version more. The colou
 
 ### Vim Tests
 
-nearest test - `t Ctrl+n`
-entire file - `t Ctrl+f`
-entire suite - `t Ctrl+s`
-last test - `t Ctrl+l`
+nearest test - `t Ctrl+n` 
+entire file - `t Ctrl+f` 
+entire suite - `t Ctrl+s` 
+last test - `t Ctrl+l` 
+
+### Rubocop
+
+`<leader>ru`
 
 ## Plugins
 - Ale
 - Ctrlp
+- GitGutter
 - NerdCommenter
 - NerdTree
+- SnipMate
 - Supertab
 - Syntastic
-- ZoomWin
-- SnipMate
-- GitGutter
 - Vim Test
+- ZoomWin
 
 ## Syntax Highlighting
 - CSV
 - CoffeeScript
-- JavaScript
-- NodeJS
+- Clojure
+- Elixir
 - Git
 - GoLang
-- Pupptet
 - HAML
-- Slim
+- JavaScript
 - LESS
-- SCSS
-- Ruby
-- Rails
-- RSpec
-- Minitest
 - Markdown
+- Minitest
+- NodeJS
+- Puppet
+- RSpec
+- Rails
+- Ruby
+- Rust
+- SCSS
+- Slim
+- Phoenix
 - Textile
-- Rust Lang
 
 ## Special Thanks
 To Carl Lerche and Yehuda Katz for the [janus](https://github.com/carlhuda/janus) bundle.
