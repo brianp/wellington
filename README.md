@@ -31,10 +31,10 @@ Lucius has been updated past version 3.1 but I like this version more. The colou
 
 ### Vim Tests
 
-nearest test - `t Ctrl+n`  
-entire file - `t Ctrl+f`  
-entire suite - `t Ctrl+s`  
-last test - `t Ctrl+l`  
+`t Ctrl+n` - nearest test  
+`t Ctrl+f` - entire file  
+`t Ctrl+s` - entire suite  
+`t Ctrl+l` - last test  
 
 ## Plugins
 - Ale
