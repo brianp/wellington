@@ -35,18 +35,21 @@
 	url = http://github.com/honza/vim-snippets.git
 [submodule "bundle/tlib_vim"] # Snipmate requirement
 	path = bundle/tlib_vim
-	url = git@github.com:tomtom/tlib_vim.git
+	url = https://github.com/tomtom/tlib_vim.git
 [submodule "bundle/vim-addon-mw-utils"] # Snipmate requirement
 	path = bundle/vim-addon-mw-utils
-	url = git@github.com:MarcWeber/vim-addon-mw-utils.git
+	url = https://github.com/MarcWeber/vim-addon-mw-utils.git
 [submodule "bundle/vim-test"]
 	path = bundle/vim-test
-	url = git@github.com:janko-m/vim-test.git
+	url = https://github.com/janko-m/vim-test.git
 [submodule "bundle/vim-rubocop"]
 	path = bundle/vim-rubocop
-	url = git@github.com:ngmy/vim-rubocop.git
+	url = https://github.com/ngmy/vim-rubocop.git
 
 # Syntax highlighting
+[submodule "lang/vim-angular"]
+	path = lang/vim-angular
+	url = https://github.com/burnettk/vim-angular.git
 [submodule "lang/vim-coffee-script"]
 	path = lang/vim-coffee-script
 	url = http://github.com/kchmck/vim-coffee-script.git

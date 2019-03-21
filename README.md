@@ -49,6 +49,7 @@ Lucius has been updated past version 3.1 but I like this version more. The colou
 - ZoomWin
 
 ## Syntax Highlighting
+- Angular
 - CSV
 - Clojure
 - CoffeeScript
