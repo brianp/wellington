@@ -8,25 +8,25 @@
 	url = https://github.com/ctrlpvim/ctrlp.vim.git
 [submodule "bundle/nerdcommenter"]
 	path = bundle/nerdcommenter
-	url = http://github.com/ddollar/nerdcommenter.git
+	url = https://github.com/ddollar/nerdcommenter.git
 [submodule "bundle/nerdtree"]
 	path = bundle/nerdtree
-	url = http://github.com/scrooloose/nerdtree.git
+	url = https://github.com/scrooloose/nerdtree.git
 [submodule "bundle/syntatstic"]
 	path = bundle/syntatstic
-	url = http://github.com/scrooloose/syntastic.git
+	url = https://github.com/scrooloose/syntastic.git
 [submodule "bundle/ZoomWin"]
 	path = bundle/ZoomWin
-	url = http://github.com/vim-scripts/ZoomWin.git
+	url = https://github.com/vim-scripts/ZoomWin.git
 [submodule "bundle/supertab"]
 	path = bundle/supertab
-	url = git@github.com:ervandew/supertab.git
+	url = https://github.com/ervandew/supertab.git
 [submodule "bundle/vim-gitgutter"]
 	path = bundle/vim-gitgutter
-	url = git@github.com:airblade/vim-gitgutter.git
+	url = https://github.com/airblade/vim-gitgutter.git
 [submodule "bundle/vim-ripgrep"]
 	path = bundle/vim-ripgrep
-	url = git@github.com:jremmen/vim-ripgrep.git
+	url = https://github.com/jremmen/vim-ripgrep.git
 [submodule "bundle/vim-snipmate"]
 	path = bundle/vim-snipmate
 	url = http://github.com/garbas/vim-snipmate.git
