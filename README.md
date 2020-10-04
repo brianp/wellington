@@ -62,6 +62,7 @@ Lucius has been updated past version 3.1 but I like this version more. The colou
 - GoLang
 - HAML
 - JavaScript
+- JSON
 - LESS
 - Markdown
 - Minitest

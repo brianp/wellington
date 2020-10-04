@@ -125,3 +125,6 @@
 [submodule "bundle/git-blame"]
 	path = bundle/git-blame
 	url = https://github.com/zivyangll/git-blame.vim.git
+[submodule "lang/vim-json"]
+	path = lang/vim-json
+	url = https://github.com/elzr/vim-json.git
