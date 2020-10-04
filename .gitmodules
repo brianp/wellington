@@ -29,10 +29,10 @@
 	url = https://github.com/jremmen/vim-ripgrep.git
 [submodule "bundle/vim-snipmate"]
 	path = bundle/vim-snipmate
-	url = http://github.com/garbas/vim-snipmate.git
+	url = https://github.com/garbas/vim-snipmate.git
 [submodule "bundle/vim-snippets"] # Snipmate
 	path = bundle/vim-snippets
-	url = http://github.com/honza/vim-snippets.git
+	url = https://github.com/honza/vim-snippets.git
 [submodule "bundle/tlib_vim"] # Snipmate requirement
 	path = bundle/tlib_vim
 	url = https://github.com/tomtom/tlib_vim.git
@@ -52,70 +52,70 @@
 	url = https://github.com/burnettk/vim-angular.git
 [submodule "lang/vim-coffee-script"]
 	path = lang/vim-coffee-script
-	url = http://github.com/kchmck/vim-coffee-script.git
+	url = https://github.com/kchmck/vim-coffee-script.git
 [submodule "lang/csv.vim"]
 	path = lang/csv.vim
-	url = http://github.com/chrisbra/csv.vim.git
+	url = https://github.com/chrisbra/csv.vim.git
 [submodule "lang/vim-git"]
 	path = lang/vim-git
-	url = http://github.com/tpope/vim-git.git
+	url = https://github.com/tpope/vim-git.git
 [submodule "lang/vim-golang"]
 	path = lang/vim-golang
-	url = http://github.com/jnwhiteh/vim-golang.git
+	url = https://github.com/jnwhiteh/vim-golang.git
 [submodule "lang/vim-haml"]
 	path = lang/vim-haml
-	url = http://github.com/tpope/vim-haml.git
+	url = https://github.com/tpope/vim-haml.git
 [submodule "lang/vim-javascript"]
 	path = lang/vim-javascript
-	url = http://github.com/pangloss/vim-javascript.git
+	url = https://github.com/pangloss/vim-javascript.git
 [submodule "lang/vim-less"]
 	path = lang/vim-less
-	url = http://github.com/groenewege/vim-less.git
+	url = https://github.com/groenewege/vim-less.git
 [submodule "lang/vim-markdown"]
 	path = lang/vim-markdown
-	url = http://github.com/tpope/vim-markdown.git
+	url = https://github.com/tpope/vim-markdown.git
 [submodule "lang/vim-ruby-minitest"]
 	path = lang/vim-ruby-minitest
-	url = http://github.com/sunaku/vim-ruby-minitest.git
+	url = https://github.com/sunaku/vim-ruby-minitest.git
 [submodule "lang/puppet-vim"]
 	path = lang/puppet-vim
-	url = http://github.com/ajf/puppet-vim.git
+	url = https://github.com/ajf/puppet-vim.git
 [submodule "lang/vim-rails"]
 	path = lang/vim-rails
-	url = http://github.com/tpope/vim-rails.git
+	url = https://github.com/tpope/vim-rails.git
 [submodule "lang/vim-rspec"]
 	path = lang/vim-rspec
-	url = http://github.com/skwp/vim-rspec.git
+	url = https://github.com/skwp/vim-rspec.git
 [submodule "lang/vim-ruby"]
 	path = lang/vim-ruby
-	url = http://github.com/vim-ruby/vim-ruby.git
+	url = https://github.com/vim-ruby/vim-ruby.git
 [submodule "lang/scss-syntax.vim"]
 	path = lang/scss-syntax.vim
-	url = http://github.com/cakebaker/scss-syntax.vim.git
+	url = https://github.com/cakebaker/scss-syntax.vim.git
 [submodule "lang/vim-slim"]
 	path = lang/vim-slim
-	url = http://github.com/slim-template/vim-slim.git
+	url = https://github.com/slim-template/vim-slim.git
 [submodule "lang/vim-node"]
 	path = lang/vim-node
-	url = http://github.com/mmalecki/vim-node.js.git
+	url = https://github.com/mmalecki/vim-node.js.git
 [submodule "lang/textile.vim"]
 	path = lang/textile.vim
-	url = http://github.com/timcharper/textile.vim.git
+	url = https://github.com/timcharper/textile.vim.git
 [submodule "lang/rust.vim"]
 	path = lang/rust.vim
-	url = http://github.com/wting/rust.vim.git
+	url = https://github.com/wting/rust.vim.git
 [submodule "lang/VimClojure"]
 	path = lang/VimClojure
-	url = http://github.com/vim-scripts/VimClojure.git
+	url = https://github.com/vim-scripts/VimClojure.git
 [submodule "lang/elm.vim"]
 	path = lang/elm.vim
 	url = https://github.com/lambdatoast/elm.vim.git
 [submodule "lang/vim-phoenix"]
 	path = lang/vim-phoenix
-	url = http://github.com/avdgaag/vim-phoenix.git
+	url = https://github.com/avdgaag/vim-phoenix.git
 [submodule "lang/vim-elixir"]
 	path = lang/vim-elixir
-	url = http://github.com/elixir-lang/vim-elixir.git
+	url = https://github.com/elixir-lang/vim-elixir.git
 [submodule "lang/Dockerfile"]
 	path = lang/Dockerfile
 	url = https://github.com/ekalinin/Dockerfile.vim.git
