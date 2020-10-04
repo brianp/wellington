@@ -122,3 +122,6 @@
 [submodule "lang/swift.vim"]
 	path = lang/swift.vim
 	url = https://github.com/keith/swift.vim.git
+[submodule "bundle/git-blame"]
+	path = bundle/git-blame
+	url = https://github.com/zivyangll/git-blame.vim.git

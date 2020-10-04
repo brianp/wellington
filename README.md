@@ -16,8 +16,11 @@ Lucius has been updated past version 3.1 but I like this version more. The colou
 
 ### Ale
 
-`Ctrl+k` - Previous linter  
-`Ctrl+j` - Next linter
+`Ctrl+k` Previous linter
+`Ctrl+j` Next linter
+
+### Git Blame
+`<leaver>b` To see the last commit for the line.
 
 ### Line Number Toggle
 `<ctrl>n` Toggle relative and absolute line numbers.
@@ -39,6 +42,7 @@ Lucius has been updated past version 3.1 but I like this version more. The colou
 ## Plugins
 - Ale
 - Ctrlp
+- Git Blame
 - GitGutter
 - NerdCommenter
 - NerdTree
