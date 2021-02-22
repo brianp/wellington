@@ -69,7 +69,6 @@ Lucius has been updated past version 3.1 but I like this version more. The colou
 - Minitest
 - NodeJS
 - Phoenix
-- Puppet
 - RSpec
 - Rails
 - Ruby

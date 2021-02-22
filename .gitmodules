@@ -11,10 +11,10 @@
 	url = https://github.com/rizzatti/dash.vim.git
 [submodule "bundle/nerdcommenter"]
 	path = bundle/nerdcommenter
-	url = https://github.com/ddollar/nerdcommenter.git
+	url = https://github.com/preservim/nerdcommenter.git
 [submodule "bundle/nerdtree"]
 	path = bundle/nerdtree
-	url = https://github.com/scrooloose/nerdtree.git
+	url = https://github.com/preservim/nerdtree.git
 [submodule "bundle/syntatstic"]
 	path = bundle/syntatstic
 	url = https://github.com/scrooloose/syntastic.git
@@ -80,9 +80,6 @@
 [submodule "lang/vim-ruby-minitest"]
 	path = lang/vim-ruby-minitest
 	url = https://github.com/sunaku/vim-ruby-minitest.git
-[submodule "lang/puppet-vim"]
-	path = lang/puppet-vim
-	url = https://github.com/ajf/puppet-vim.git
 [submodule "lang/vim-rails"]
 	path = lang/vim-rails
 	url = https://github.com/tpope/vim-rails.git
